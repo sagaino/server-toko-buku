@@ -64,4 +64,4 @@ You can now access the server at http://localhost:3000
 
 ## Link API
 
-- [x] https://documenter.getpostman.com/view/2945224/UVC9hRSF
+- [x] https://documenter.getpostman.com/view/13351309/UVsTrNdN
