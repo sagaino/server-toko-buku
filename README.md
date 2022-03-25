@@ -27,7 +27,7 @@ For running this project please install nodejs and mysql.
 Clone the repository :
 
 ```
-git clone https://github.com/elfinsanjaya12/be-book-cashier/
+git clone https://github.com/sagaino/server-toko-buku
 ```
 
 Switch to the repo folder :
