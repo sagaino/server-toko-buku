@@ -3,7 +3,7 @@
 module.exports = {
   async up(queryInterface, Sequelize) {
     await queryInterface.bulkInsert(
-      "books",
+      "Books",
       [
         {
           title: "David Bach: Faktor Latte",
